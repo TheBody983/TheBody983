@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheBody983,
-- 👀 I’m interested in game developement/design, and cryptomoneys,
-- 🌱 I’m currently learning Folw's Cadence and Java,
-- 💞️ I’m looking to collaborate on my project, Worldlet, based on Cadence,
+- 👀 I’m interested in game developement/design, and Decentralized Applications,
+- 🌱 I’m currently learning my way around in the Flow Blochchain environement,
+- 💞️ I’m working on Wordlet, a dApp about gaming, collection and literature,
 - 📫 You can reach me on Discord @Aphaz#6764
 
 <!---
