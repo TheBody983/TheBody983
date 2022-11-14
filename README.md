@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @TheBody983,
-- 👀 I’m interested in game developement/design, and Decentralized Applications,
-- 🌱 I’m currently learning my way around in the Flow Blochchain environement,
-- 💞️ I’m working on Wordlet, a dApp about gaming, collection and literature,
+- 👋 Hi, I’m @Aphaz,
+- 👀 I’m interested in game developement/design and 3D printing,
+- 🌱 I’m currently travelling in Europe to find inspiration for my next projects,
 - 📫 You can reach me on Discord @Aphaz#6764
 
 <!---
